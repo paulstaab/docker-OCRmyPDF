@@ -18,7 +18,7 @@ RUN apt-get update \
   poppler-utils \
   imagemagick \
   unpaper \
-  tesseract-ocr \
+  tesseract-ocr tesseract-ocr-deu tesseract-ocr-spa tesseract-ocr-eng tesseract-ocr-fra \
   python2.7 python-lxml python-reportlab python-pil \
   ghostscript \
   openjdk-7-jdk \
