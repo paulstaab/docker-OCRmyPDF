@@ -32,5 +32,5 @@ RUN ln -s /usr/local/OCRmyPDF-2.2-stable/OCRmyPDF.sh /usr/local/bin/OCRmyPDF && 
 
 USER docker
 WORKDIR /home/docker
-RUN bash -c 'echo "export SHELL=/bin/sh" >> ~/.bashrc'
+ENV SHELL /bin/sh
 
