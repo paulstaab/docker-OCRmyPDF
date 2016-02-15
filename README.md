@@ -1,3 +1,7 @@
+> This project is discontinued as OCRmyPDF now has an official Docker container, see
+> https://github.com/jbarlow83/OCRmyPDF#installing-the-docker-image
+
+
 # A docker container for OCRmyPDF
 
 This is a docker container for
